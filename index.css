@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300;400;500&family=Bitter&family=Dancing+Script:wght@400;500&family=Indie+Flower&family=Libre+Bodoni:ital@1&display=swap');
+
+*{
+    text-align: center;
+    margin-left: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav {
+    display: flex;
+    align-items: right;
+    justify-content: right; 
+    margin-right: none;
+}
+nav .nav a{
+    margin-top: 5px;
+    margin-bottom: 2px;
+    margin-right: 5px;
+
+}
+nav .nav img{
+    margin-right: 5px;
+    max-width: 80px;
+    min-height: 40px;
+
+}
+
+
+nav .nav{
+    margin-left: 100px;
+}
+
+.image{
+    margin-top: 5px;
+    margin-left: 0px;
+    padding-left: 0;
+    padding-right: 5px;
+    align-items: center;
+}
+
+#img1{
+    width: 95%;
+    height: 650px;
+}
+
+.texte{
+    position: absolute;
+    top: 65%;
+    left: 8%;
+    color: white;
+    font-size: 80px;
+    font-family: 'Bitter' , 'sans-serif' ;
+}
+
+div.image{
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.corps{
+    margin-top: 20px;
+}
+.corps h2,p{
+
+    text-align: left;
+    
+
+}
+
+p{
+    font-size: 1em;
+    font-family: 'Bitter' , 'sans-serif';
+    word-spacing: 0.5em;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+table{
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.texte {
+    align-items: left;
+}
+
+
+ul li{
+    list-style-type: none;
+    text-align: left;
+    margin-left: 300px;
+}
+
+.univ {
+    position: absolute;
+    bottom: -126%;
+    left: 50%;
+}
